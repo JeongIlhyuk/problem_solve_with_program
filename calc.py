@@ -6,4 +6,3 @@ def hap(a,b,c=0):
 def mul(a,b,c=1):
     result = a*b*c
     return result
-
